@@ -73,13 +73,13 @@ paginate = 10
 		[[params.portfolio.gallery]]
 			image = "fulls/03.jpg"
 			thumb = "thumbs/IIB.jpg"
-			title = "Lorem ipsum dolor."
+			title = "IBM Integration Bus"
 			description = "Lorem ipsum dolor sit amet."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/04.jpg"
 			thumb = "thumbs/appConnect.jpg"
-			title = "Lorem ipsum dolor."
+			title = "IBM App Connect (CastIron)"
 			description = "Lorem ipsum dolor sit amet."
 
 	[params.recentposts]
