@@ -29,7 +29,7 @@ paginate = 10
 		avatar = "Me2.png"
 		# Use Markdown to format the string. This works nearly all over the theme
 		bio = "Data Integration"
-		bio2 = "Software Consultant"
+		bio2 = "Software Consultant "
 		# The icons will be shown if you enter your username
 		twitter = ""
 		github = "gollmj"
@@ -54,43 +54,31 @@ paginate = 10
 
 	[params.portfolio]
 		hide  = false
-		title = "Recent Work"
+		title = "Most Recent Contracts"
 
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
 			image = "../post/index.html"
-			thumb = "thumbs/01.jpg"
-			title = "Lorem ipsum dolor."
+			thumb = "thumbs/jitterbit.jpg"
+			title = "Jittbit Integration."
 			description = "Lorem ipsum dolor sit amet."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/02.jpg"
-			thumb = "thumbs/02.jpg"
-			title = "Lorem ipsum dolor."
+			thumb = "thumbs/rhapsody.jpg"
+			title = "Orion Rhapsody"
 			description = "Lorem ipsum dolor sit amet."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/03.jpg"
-			thumb = "thumbs/03.jpg"
+			thumb = "thumbs/IIB.jpg"
 			title = "Lorem ipsum dolor."
 			description = "Lorem ipsum dolor sit amet."
 
 		[[params.portfolio.gallery]]
 			image = "fulls/04.jpg"
-			thumb = "thumbs/04.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/05.jpg"
-			thumb = "thumbs/05.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/06.jpg"
-			thumb = "thumbs/06.jpg"
+			thumb = "thumbs/appConnect.jpg"
 			title = "Lorem ipsum dolor."
 			description = "Lorem ipsum dolor sit amet."
 
