@@ -48,7 +48,7 @@ paginate = 10
 
 	[params.about]
 		hide  = false
-		title = "Utilize Data engineering principles<br> to streamline your business"
+		title = "Utilize the data you already have<br> to streamline your business"
 		content = "<br>Currently under construction. Please [send me an email](http://www.michaelgoll.com/#contact-form) to start a conversation."
 
 
