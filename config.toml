@@ -68,7 +68,7 @@ paginate = 10
 			image = "../post/index.html"
 			thumb = "thumbs/rhapsody.jpg"
 			title = "Orion Rhapsody"
-			description = "Lorem ipsum dolor sit amet."
+			description = "JSON - HL7 - REST"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/03.jpg"
