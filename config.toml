@@ -62,7 +62,7 @@ paginate = 10
 			image = "../post/index.html"
 			thumb = "thumbs/jitterbit.jpg"
 			title = "Jittbit Integration."
-			description = "Lorem ipsum dolor sit amet."
+			description = "Send me an email for more info."
 
 		[[params.portfolio.gallery]]
 			image = "../post/index.html"
