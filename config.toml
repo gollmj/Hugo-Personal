@@ -1,6 +1,6 @@
 ### CHANGE BEFORE DEPLOY ####
 #baseurl = "http://10.0.0.10/"
-baseurl = "http://www.michaelgoll.com/"
+baseurl = "https://www.michaelgoll.com/"
 languageCode = "en-us"
 title = "Michael Goll"
 theme = "hugo-strata-theme"
