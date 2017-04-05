@@ -1600,12 +1600,14 @@
 
 	p {
 		margin: 0 0 2em 0;
+		text-align: center;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #787878;
 		font-weight: 400;
 		line-height: 1em;
+		text-align: center;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -1616,10 +1618,11 @@
 	h1 {
 		font-size: 2em;
 		line-height: 1.5em;
+		text-align: right;
 	}
 
 	h2 {
-		font-size: 1.5em;
+		font-size: 1.75em;
 		line-height: 1.5em;
 	}
 

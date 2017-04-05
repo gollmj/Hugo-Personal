@@ -48,7 +48,7 @@ paginate = 10
 
 	[params.about]
 		hide  = false
-		title = "Utilize the data you already have<br> to streamline your business"
+		title = "Utilize the data you already have to streamline your business"
 		content = "<br>Please, [send me an email](https://www.michaelgoll.com/#contact-form) to find out how I can help solve your business problems."
 
 
