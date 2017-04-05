@@ -49,12 +49,12 @@ paginate = 10
 	[params.about]
 		hide  = false
 		title = "Utilize the data you already have<br> to streamline your business"
-		content = "<br>Currently under construction. Please [send me an email](https://www.michaelgoll.com/#contact-form) to start a conversation."
+		content = "<br>Please, [send me an email](https://www.michaelgoll.com/#contact-form) to find out how I can help solve your business problems."
 
 
 	[params.portfolio]
 		hide  = false
-		title = "Most Recent Contracts"
+		title = "Most Recent Tools"
 
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
@@ -74,13 +74,13 @@ paginate = 10
 			image = "fulls/03.jpg"
 			thumb = "thumbs/IIB.jpg"
 			title = "IBM Integration Bus"
-			description = "Lorem ipsum dolor sit amet."
+			description = "Message Broker v9 Certified"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/04.jpg"
 			thumb = "thumbs/appConnect.jpg"
 			title = "IBM App Connect (CastIron)"
-			description = "Lorem ipsum dolor sit amet."
+			description = "Websphere Cast Iron"
 
 	[params.recentposts]
 		hide  = false

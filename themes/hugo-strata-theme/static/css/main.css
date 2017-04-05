@@ -1767,7 +1767,7 @@
 		-webkit-appearance: none;
 		-ms-appearance: none;
 		appearance: none;
-		background: #f7f7f7;
+		background: #fff;
 		border-radius: 0.35em;
 		border: solid 2px transparent;
 		color: inherit;
@@ -1993,7 +1993,7 @@
 			-webkit-transition: opacity 0.2s ease-in-out;
 			-ms-transition: opacity 0.2s ease-in-out;
 			transition: opacity 0.2s ease-in-out;
-			background: url("images/overlay.png");
+			/*background: #F7F7F7;*/
 			border-radius: 0.35em;
 			content: '';
 			display: block;
@@ -2328,7 +2328,7 @@
 		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
-		background-color: transparent;
+		background-color: #FFF;
 		border-radius: 0.35em;
 		border: solid 3px #efefef;
 		color: #787878 !important;
