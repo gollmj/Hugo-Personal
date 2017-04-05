@@ -15,6 +15,7 @@
 		{{ with .Site.LanguageCode }}<meta http-equiv="content-language" content="{{ . }}" />{{ end }}
 
 		{{ if not .Site.Params.OpenGraph.hide }}
+		<meta name="description" content="Michael Goll personal website for consulting and business development." />
 		<meta name="og:site_name" content="{{ .Site.Title }}">
 		<meta name="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
 		<meta name="og:url" content="{{ .Permalink }}">
