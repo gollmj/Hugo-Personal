@@ -80,7 +80,7 @@ paginate = 10
 			image = "http://www-03.ibm.com/software/products/en/ibm-app-connect"
 			thumb = "thumbs/appConnect.jpg"
 			title = "IBM App Connect (CastIron)"
-			description = "Websphere Cast Iron"
+			description = "Experienced with Websphere Cast Iron"
 
 	[params.recentposts]
 		hide  = false
