@@ -59,25 +59,25 @@ paginate = 10
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
-			image = "../post/index.html"
+			image = "https://www.jitterbit.com"
 			thumb = "thumbs/jitterbit.jpg"
 			title = "Jittbit Integration."
 			description = "Salesforce Integration"
 
 		[[params.portfolio.gallery]]
-			image = "../post/index.html"
+			image = "https://orionhealth.com/us/products/rhapsody/"
 			thumb = "thumbs/rhapsody.jpg"
 			title = "Orion Rhapsody"
 			description = "JSON - HL7 - REST"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/03.jpg"
+			image = "https://www.ibm.com/software/products/en/ibm-integration-bus"
 			thumb = "thumbs/IIB.jpg"
 			title = "IBM Integration Bus"
 			description = "Message Broker v9 Certified"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/04.jpg"
+			image = "http://www-03.ibm.com/software/products/en/ibm-app-connect"
 			thumb = "thumbs/appConnect.jpg"
 			title = "IBM App Connect (CastIron)"
 			description = "Websphere Cast Iron"
