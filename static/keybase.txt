@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/gollmj
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.michaelgoll.com
+  * I am gollmj (https://keybase.io/gollmj) on keybase.
+  * I have a public key with fingerprint 0BF8 0908 74AF A5CE 5B86  9C21 32CF 52EA BAEF 8944
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101eb7c63eeddb495a73411ece2a759a606e71809bc6ace75c1bf0fe4c3732141670a",
+      "fingerprint": "0bf8090874afa5ce5b869c2132cf52eabaef8944",
+      "host": "keybase.io",
+      "key_id": "32cf52eabaef8944",
+      "kid": "0101eb7c63eeddb495a73411ece2a759a606e71809bc6ace75c1bf0fe4c3732141670a",
+      "uid": "8c4ae93ebdff83e12e4ccf421097e919",
+      "username": "gollmj"
+    },
+    "service": {
+      "hostname": "www.michaelgoll.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1507145077,
+  "expire_in": 157680000,
+  "prev": "a4e13fe9270e78d00c4303089eccc25dae77711b84880e032bc3cc9855ee7140",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.74
+Comment: https://keybase.io/crypto
+
+yMIrAnicrZJdSFRBFMfXzCzFRaSgwB66lBWuMnO/5t4NSiqSCKOCoiDc5s49d726
+7l33rm4SUkQfDxWSZCDZB/TtQ1SmRRikKCW+CCmFZphh9gFp3w9RNlfqrcfmYYY5
+8///5pzD6c5K9WWkzB84FUgunZWT0tfZXO3bNahU7xMMx6wVgvuECpg5IGKCmwhV
+2KYQFBBGGAzCVAnANA1ZVyiRZIyBgUiJolMVqUCwhnSDqZQBURg2LGSBzCQiiVjG
+KkFUCAiWHQ1DPBa3owkPa1jcgjQiU4sqDBRDU3UmYklkliICNShYmi7L3FjmuJ6D
+J2dQFwpth8f4JTST3j/0/znv6hmcxmQKugSGaVmaBFjkOmbJIkY6AR3rntCFeJRW
+AleHnUikslyoCwg8VmMz8Nrq1fHnPZlMFlbarIxCxJMWMqeSA2JxJ+EwJ8IFZYlE
+zA16gERtbMYBRugPK2TYUZM3kztqIO7aTlQIYq5kCduDYwURLPONBATYG7PjELI9
+hUJUDfHl/QM1HEllwJIFukgQEM1EiMkSkpCmA2NMVEwKhBCMDU3WNARIEg0mMaZr
+igK8cTISvOqqoo4QlHiaNMyRrh2O0kR1HIS6roe7Z/tSMnxz0mZ5Q+bLmJf9d/TC
+mem/VgTynynLim6uramaW3zCms5P7bv0dOjn0qZFD681tjm4r355Sd6FPe5QwYA/
+99OPlxvG+mn7lfD29Sshv6I/66CafqaZTbd1dTS2TI+u67ow5G47mOnP7ekvPjTW
+37Bq05K7E2t+tT4qyu990NS+69vW65PuiyH93VVrJOkXBme3HNt8//XURGn2WaX0
+zdGP6qfY15KeN0/etq59W5Ez/ur8l87L94YHj3wYWVBS/njsfqxuoTSOe483387u
+LjAzJ/d03F4spR06uTPQMTqxZaR0etXd5WtuROqrjta+z21tuHg4ui3t2jA611mc
+13L6VvznlP9i0ffn+/3pV5U7n3dsPLA69Tfp/Umo
+=kbYb
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gollmj
+
+==================================================================
