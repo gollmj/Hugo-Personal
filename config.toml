@@ -59,6 +59,12 @@ paginate = 10
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
+			image = "https://salesforce.com/"
+			thumb = "thumbs/salesforce.png"
+			title = "Salesforce Integration"
+			description = "Apex - VisualForce - Lightning"
+
+		[[params.portfolio.gallery]]
 			image = "https://www.jitterbit.com"
 			thumb = "thumbs/jitterbit.jpg"
 			title = "Jittbit Integration."
