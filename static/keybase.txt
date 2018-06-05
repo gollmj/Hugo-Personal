@@ -4,9 +4,9 @@ https://keybase.io/gollmj
 
 I hereby claim:
 
-  * I am an admin of http://www.michaelgoll.com
+  * I am an admin of https://michaelgoll.com
   * I am gollmj (https://keybase.io/gollmj) on keybase.
-  * I have a public key with fingerprint 0BF8 0908 74AF A5CE 5B86  9C21 32CF 52EA BAEF 8944
+  * I have a public key ASA_z2VWCOBgOMEuPQhv1R6R3uDiCYV-NkltVkXIU3Qb4go
 
 To do so, I am signing this object:
 
@@ -14,64 +14,39 @@ To do so, I am signing this object:
   "body": {
     "key": {
       "eldest_kid": "0101eb7c63eeddb495a73411ece2a759a606e71809bc6ace75c1bf0fe4c3732141670a",
-      "fingerprint": "0bf8090874afa5ce5b869c2132cf52eabaef8944",
       "host": "keybase.io",
-      "key_id": "32cf52eabaef8944",
-      "kid": "0101eb7c63eeddb495a73411ece2a759a606e71809bc6ace75c1bf0fe4c3732141670a",
+      "kid": "01203fcf655608e06038c12e3d086fd51e91dee0e209857e36496d5645c853741be20a",
       "uid": "8c4ae93ebdff83e12e4ccf421097e919",
       "username": "gollmj"
     },
     "merkle_root": {
-      "ctime": 1528201277,
-      "hash_meta": "1b5a43b4ce6288310efaad617eace7d84d8a0bebab087cc42842cb1ec3da54f6",
-      "seqno": 2997887
-    },
-    "revoke": {
-      "sig_ids": [
-        "39caa3903b4ae2779a0b4448247af7044b12cbe78d5dc8ebc25f17723da882fa0f"
-      ]
+      "ctime": 1528201567,
+      "hash": "f34495e47cfb0bf2d637e719e9195d45ba46bede057a17b089a6e21e6a0cae6be5439092bd6f69796810e6bfa3b4e8fedc3dd905df6beeb14f8c92e08a716987",
+      "hash_meta": "d0c10c8626b0f31804236f7ddf0c3f85a40e581c43358eafff4dcfaaa824ca81",
+      "seqno": 2997916
     },
     "service": {
-      "hostname": "www.michaelgoll.com",
-      "protocol": "http:"
+      "entropy": "YtXPSfry3Nk3M0U8hT86p+i4",
+      "hostname": "michaelgoll.com",
+      "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 1
+    "version": 2
   },
-  "ctime": 1528201285,
-  "expire_in": 157680000,
-  "prev": "22d8723e9eae376470d322c994398cc13a43763c39b5dd38cf929caef7bb43fc",
-  "seqno": 11,
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.0.0"
+  },
+  "ctime": 1528201591,
+  "expire_in": 504576000,
+  "prev": "17feb2ea7cd4af454a050ba9dd195edb0597bae1040d19de7fda49aed309fce7",
+  "seqno": 12,
   "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.77
-Comment: https://keybase.io/crypto
-
-yMK/AnicrZNtiBVVHMbvdd3C1YW1Fithw0aXXLkuc15mzjkXIdAWBCHYpMSX7XJe
-/rM73pe5zp2967qs9kJQC5EfVPxSQiHk6soSihZZsq0fJDYtzC8VRrW2SmgJkVRs
-nbkYQfSx+TLM8DzP//n/Zs50a1OmJdt+5UBuaNWCB7KfTO0ZzGxf9nzPiKMiM+zk
-R5wiNG5QMlBLCsXQOHnHRS4CxbRPAIxRVHiSEYoQaMCSeUL6rg8McVco7UsNzNNI
-BW4AVBNGMKLIZ650ck4QVvohrsZhJUljVWAtLmdUBtLT4CnuC40RwTrwMEglIeCC
-UmsciGqpw5ZTsgbdYWTf2YdCo95/6P/n3oONOK6pBEFAmSDgBBC2Oh1QjFzBQCCR
-CmsQV2QZrLo/KpXKO53RnFOGuFiCQhxFSYpWJ2EqQB7m2EWYMbuerA0UypBI60PK
-k5QoqsHHnBPkQiCl8RGDtKHh1HDpKlBSWXJaU8wp1sruRIz0aODbFjXYVYmcPBaC
-cc5sgxjqURHS4bWw30KrOfntDhFaSiJcO0uCrSFsLKWUY8pkwFxKFbLBwLjxjOag
-NPYCxBi2czjHgXQDp280HRbXQ90IT7/Sve2Hhoa6y6EekFBKQXTrqGyLVeMoiXRU
-soKBJKnmUzrJcLVhAFW4F1VQYcXYP8Ua6hDXwqhiaVnlv8BxL+fA7moYQyFMFR7z
-uWuvdAzUbSTGhtu6IEACYT5lriEYayEoEVxrRCxn5hNNhPKMIVwHAlsmEDClKAn0
-PyQRsj1lv820/CoyGYzBGZ06v2NhJtuSua95QXqEMi2L2v4+WB+X7p93xx88eHTf
-5x0vv/72k13m6O2J9iOrfz5udm3cMbPo0w+ur9r83JJn9i/989a50vrq2Lel9/N7
-96xbNrry5uTY78fiRw8fyx1Z+PTwlWubso8fzndc7p1796MfL506OcfnbvqTbT+d
-W4y2bd3w1Jrlrac7z8x+4Y6/cXfiu1fX9l0fb05+PXgx+1L9bnPbQ3u3LH9z8aZr
-D/f27Bbv1G/9smHzY4dm5r48mdzmX/N1a09cbXrih7GV3qVy56Gp5q5p3HGh58zI
-qZkLvb9tPT05Dlv2N322ov2FnSs2xmdnv7/64uw3UweKS2+sXzNxJ//aV/M3zn9Y
-feuPs/uejZpfufPe5c7VXfPHp7c9EvdcXNJ3ovUvmTWDqA==
-=KUjS
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgP89lVgjgYDjBLj0Ib9Uekd7g4gmFfjZJbVZFyFN0G+IKp3BheWxvYWTESpcCDMQgF/6y6nzUr0VKBQup3Rle2wWXuuEEDRnef9pJrtMJ/OfEIIer/mt5nUT1mQcEIpCCf20pWEv+IXgzVXG7EXOl1hhAAgHCo3NpZ8RAR5oksHSByj3VRCi+bsZHBHTxyNG2lab5uTrhn3DHeGOZZycPqQJ88AdMMlaJLO9RIz1v4rxAx+jrcF3wvX2RDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGxvq5dQZJTsAWX9w8Qr3I8qaA1/swZZDuLjvKo+tpIRo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
