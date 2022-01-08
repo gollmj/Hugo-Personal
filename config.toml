@@ -48,7 +48,7 @@ paginate = 10
 
 	[params.about]
 		hide  = false
-		title = "Leading your Salesforce rollout"
+		title = "Your Trusted Advisor for Salesforce"
 		content = "<br>[Send me an email](https://www.michaelgoll.com/#contact-form) to start the conversation."
 
 
