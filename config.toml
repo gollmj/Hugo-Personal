@@ -65,28 +65,22 @@ paginate = 10
 			description = "Full Stack Architect"
 
 		[[params.portfolio.gallery]]
+			image = "https://www.mulesoft.com/"
+			thumb = "thumbs/mulesoft.png"
+			title = "Mulesoft"
+			description = "Mulesoft Certified"
+
+		[[params.portfolio.gallery]]
 			image = "https://www.jitterbit.com"
 			thumb = "thumbs/jitterbit.jpg"
 			title = "Jittbit Integration."
 			description = "Salesforce Integration"
 
 		[[params.portfolio.gallery]]
-			image = "https://orionhealth.com/us/products/rhapsody/"
-			thumb = "thumbs/rhapsody.jpg"
-			title = "Orion Rhapsody"
-			description = "JSON - HL7 - REST"
-
-		[[params.portfolio.gallery]]
 			image = "https://www.ibm.com/software/products/en/ibm-integration-bus"
 			thumb = "thumbs/IIB.jpg"
 			title = "IBM Integration Bus"
 			description = "Message Broker v9 Certified"
-
-		[[params.portfolio.gallery]]
-			image = "http://www-03.ibm.com/software/products/en/ibm-app-connect"
-			thumb = "thumbs/appConnect.jpg"
-			title = "IBM App Connect (CastIron)"
-			description = "Experienced with Websphere Cast Iron"
 
 	[params.recentposts]
 		hide  = false
